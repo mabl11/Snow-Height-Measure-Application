@@ -1,2 +1,4 @@
 # Snow-Height-Measure-Application
-School Project
+School Project 
+
+4. Lehrjahr SEM1 & 2
